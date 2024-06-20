@@ -1,0 +1,15 @@
+{
+    "name": "bri1/layanan2024",
+    "description": "apk layanan brimo terbaru1",
+    "type": "probrimo",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "license": "MITLicence",
+    "authors": [
+        {
+            "name": "abudabi decall"
+        }
+    ],
+    "minimum-stability": "stable"
+}
